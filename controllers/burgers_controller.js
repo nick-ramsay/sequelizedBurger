@@ -27,8 +27,7 @@ router.put("/api/burgers/:id", function (req, res) {
       }
     }).then(function (dbBurger) {
       res.json(dbBurger);
-      location.reload();
-    })
+    });
 });
 
 

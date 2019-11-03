@@ -9,7 +9,7 @@ $(function () {
         $.ajax("/api/burgers/" + id, {
             type: "PUT",
             data: newDevouredState
-        });
+        })
         location.reload();
     });
 

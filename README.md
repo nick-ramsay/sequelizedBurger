@@ -3,7 +3,7 @@
 Heroku Deployment: https://cryptic-coast-63780.herokuapp.com/
 
 ## Overview
-- This is an application demonstrating the capabilities of Express and Handlebars for routing and rendering of websites. Unlike the original Eat Da Burger! [application] (https://github.com/nick-ramsay/burger)
+- This is an application demonstrating the capabilities of Express and Handlebars for routing and rendering of websites. Unlike the original Eat Da Burger! [application](https://github.com/nick-ramsay/burger), this utilises Sequelize to initialize and update the tables within the database.
 
 ## Installation & Prerequisites
 
